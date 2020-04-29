@@ -1,14 +1,6 @@
 <!-- Project Logo -->
 
-![Be The Hero](.github/logo.svg)
-
-<!-- Name of Project -->
-
-# Be The Hero
-
-<!-- Description -->
-
-Aplicação para que ONG's possam encontrar Heros dispostos a ajudar casos de animais que sofreram algum tipo de maus tratos.
+![Be The Hero](.github/logo.svg){.text-center}
 
 <!-- Project Shields -->
 
@@ -18,13 +10,21 @@ Aplicação para que ONG's possam encontrar Heros dispostos a ajudar casos de an
 [![Knex][knex-image]][knex-url]
 [![Rocketseat][rocketseat-image]][rocketseat-url]
 
+<!-- Name of Project -->
+
+# Be The Hero
+
+<!-- Description -->
+
+Aplicação para que ONG's possam encontrar Heros dispostos a ajudar casos de animais que sofreram algum tipo de maus tratos.
+
 <!-- Table of Contents -->
 
 ## Tabela de Conteúdo
 
 - [Tabela de Conteúdo](#tabela-de-conteúdo)
 - [Sobre o Projeto](#sobre-o-projeto)
-- [Tecnologias](#tecnologias)
+- [Tecnologias](#tec)
 - [Layout](#layout)
 - [Contribuição](#como-contribuir)
 - [Instrutor](#instrutor)
@@ -37,7 +37,7 @@ Aplicação para que ONG's possam encontrar Heros dispostos a ajudar casos de an
 
 O objetivo desta aplicação é proporcionar um espaço onde ONG's possam cadastrar casos de animais que sofreram algum tipo de abuso para que possam encontrar qualquer pessoa disposta a ajudar monetariamente, podendo assim salvar o dia. Deste modo nasceu o Be The Hero.
 
-## :rocket: Tecnologias
+## :rocket: Tecnologias <a name="tec"></a>
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
