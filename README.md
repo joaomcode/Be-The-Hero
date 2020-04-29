@@ -64,9 +64,9 @@ npm start
 ```
 
 Com o servidor ativo, você deve abrir outro terminal no diretório do frontend e executar o comando:
-
- npm start
-
+```
+npm start
+```
 Após isso a aplicação deve iniciar diretamente no browser.
 
 ## 🤔 Como contribuir <a name="como-contribuir"></a>
