@@ -1,6 +1,6 @@
 <!-- Project Logo -->
 
-<center>![Be The Hero](.github/logo.svg)</center>
+![Be The Hero](.github/logo.svg)
 
 <!-- Project Shields -->
 
