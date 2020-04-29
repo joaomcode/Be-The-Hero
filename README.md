@@ -26,9 +26,10 @@ Aplicação para que ONG's possam encontrar Heros dispostos a ajudar casos de an
 - [Sobre o Projeto](#sobre-o-projeto)
 - [Tecnologias](#tec)
 - [Layout](#layout)
+- [Execução](#execucao)
 - [Contribuição](#como-contribuir)
 - [Instrutor](#instrutor)
-- [Licença](#licença)
+- [Licença](#licenca)
 
 
 <!-- About The Project -->
@@ -48,6 +49,22 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ![Tela Inicial](.github/telaInicial.png)
 
+## Execução <a name="execucao"></a>
+
+Para visualizar executar essa aplicação na sua máquina, você pode entrar pelo terminal nas pastas do backend e frontend e instalar os pacotes do node_module com o comando:
+
+npm install
+
+Após instalar as dependências nos dois diretórios você deve abrir um terminal no diretório do backend executar o comando:
+
+npm start
+
+Com o servidor ativo, você deve abrir outro terminal no diretório do frontend e executar o comando:
+
+npm start
+
+Após isso a aplicação deve iniciar diretamente no browser.
+
 ## 🤔 Como contribuir <a name="como-contribuir"></a>
 
 - Faça um fork desse repositório;
@@ -61,7 +78,7 @@ Depois que o merge da sua pull request for feito, você pode deletar a sua branc
 
 A semana foi ministrada pelo [Diego Fernandes](https://github.com/diego3g)
 
-## :memo: Licença <a name="licença"></a>
+## :memo: Licença <a name="licenca"></a>
 
 Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para mais detalhes.
 
