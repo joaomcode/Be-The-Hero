@@ -1,6 +1,6 @@
 <!-- Project Logo -->
 
-![Be The Hero](.github/logo.svg){.text-center}
+<center>![Be The Hero](.github/logo.svg)</center>
 
 <!-- Project Shields -->
 
@@ -44,11 +44,11 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - [Node.js](https://nodejs.org/en/)
 - [React](https://reactjs.org)
 
-## 🔖 Layout
+## 🔖 Layout <a name="layout"></a>
 
 ![Tela Inicial](.github/telaInicial.png)
 
-## 🤔 Como contribuir
+## 🤔 Como contribuir <a name="como-contribuir"></a>
 
 - Faça um fork desse repositório;
 - Cria uma branch com a sua feature: `git checkout -b minha-feature`;
@@ -57,11 +57,11 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 Depois que o merge da sua pull request for feito, você pode deletar a sua branch.
 
-## :mortar_board: Instrutor
+## :mortar_board: Instrutor <a name="instrutor"></a>
 
 A semana foi ministrada pelo [Diego Fernandes](https://github.com/diego3g)
 
-## :memo: Licença
+## :memo: Licença <a name="licença"></a>
 
 Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para mais detalhes.
 
