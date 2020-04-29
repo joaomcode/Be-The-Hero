@@ -53,15 +53,15 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 Para visualizar executar essa aplicação na sua máquina, você pode entrar pelo terminal nas pastas do backend e frontend e instalar os pacotes do node_module com o comando:
 
-npm install
+` npm install
 
 Após instalar as dependências nos dois diretórios você deve abrir um terminal no diretório do backend executar o comando:
 
-npm start
+` npm start
 
 Com o servidor ativo, você deve abrir outro terminal no diretório do frontend e executar o comando:
 
-npm start
+` npm start
 
 Após isso a aplicação deve iniciar diretamente no browser.
 
